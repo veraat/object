@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://veraat.github.io/OBJ",
+  "homepage": "https://veraat.github.io/object",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
